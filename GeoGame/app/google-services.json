@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "862125122323",
+    "firebase_url": "https://frankfurtschool-geogame.firebaseio.com",
+    "project_id": "frankfurtschool-geogame",
+    "storage_bucket": "frankfurtschool-geogame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862125122323:android:b0002d024cd704ac",
+        "android_client_info": {
+          "package_name": "de.fs.fintech.geogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862125122323-vmlto1i1gqiqji6g8qjmu1fos21cpadn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "862125122323-go3jm1mt4b0g8k1g8bgadmjsij85h010.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.fs.fintech.geogame",
+            "certificate_hash": "33ecb194b3250d3b064a5a01610276ddd5a372b3"
+          }
+        },
+        {
+          "client_id": "862125122323-bcq129e4pcl1pcr15o76o8n2g242gbm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCL5YvoXEeiS_zYENmCsT2EnOaRbcPeXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862125122323-vmlto1i1gqiqji6g8qjmu1fos21cpadn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

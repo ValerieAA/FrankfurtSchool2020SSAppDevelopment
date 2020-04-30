@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_timer"
+        android:orderInCategory="100"
+        android:title="Timer Notification"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_debug"
+        android:orderInCategory="100"
+        android:title="Debug Activities"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_position"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_position"
+        android:title="Current position"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_inv"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_inventory"
+        android:title="Inventory"
+        app:showAsAction="always" />
+
+</menu>
+
+
