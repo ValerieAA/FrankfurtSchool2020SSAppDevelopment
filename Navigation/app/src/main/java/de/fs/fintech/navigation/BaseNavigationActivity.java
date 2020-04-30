@@ -71,6 +71,7 @@ abstract class BaseNavigationActivity extends AppCompatActivity implements Navig
             // If the activity is already on the top, do nothing (will invoke onNewIntent(Intent) )
             intent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
             startActivity(intent);
+            finish(); // wichtig!
             return true;
         }
 
