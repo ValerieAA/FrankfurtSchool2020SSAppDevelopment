@@ -33,7 +33,7 @@ import de.fs.fintech.geogame.adapter.PortalListAdapter;
 import de.fs.fintech.geogame.db.DatabaseHelper;
 import de.fs.fintech.geogame.parcelable.PortalInfoParcel;
 
-public class PortalListActivity extends AppCompatBaseActivity implements AdapterView.OnItemClickListener {
+public class PortalListActivity extends AppCompatBaseActivity implements AdapterView.OnItemClickListener, View.OnLongClickListener {
     private boolean MIGRATE_DATA = false;
     private static Logger log = LoggerFactory.getLogger(PortalListActivity.class);
     private ListView mList;
@@ -67,6 +67,7 @@ public class PortalListActivity extends AppCompatBaseActivity implements Adapter
         PortalListAdapter adapter = new PortalListAdapter(this, R.layout.lvi_portal, array);
         mList.setAdapter(adapter);
         mList.setOnItemClickListener(this);
+        mList.setOnLongClickListener(this);
     }
 
     @Override
@@ -215,4 +216,8 @@ public class PortalListActivity extends AppCompatBaseActivity implements Adapter
     }
 
 
+    @Override
+    public boolean onLongClick(View v) {
+        return false;
+    }
 }
