@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="hello">Добро пожаловать в приложение \"Chess Round Robin\". С помощью этого приложения вы можете организовывать шахматные турниры по круговой системе!</string>
+    <string name="homescreenbuttonnewtournament">НОВЫЙ ТУРНИР</string>
+    <string name="nocurrenttournament">В настоящее время ни один турнир не создан. Нажмите кнопку, чтобы начать новый турнир.</string>
+    <string name="item_logout_string">Выход</string>
+    <string name="round">Раунд 1</string>
+    <string name="action_showleaderboard">Показать рейтинг</string>
+    <string name="participant_selection">Отбор участников</string>
+    <string name="leaderboard">Рейтинг</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="round1back">вы уверены? Если вы отмените первый раунд, все результаты будут безвозвратно удалены!</string>
+    <string name="quitTournament">Вы завершили текущий турнир. Вы хотите закрыть турнир? Если вы закроете турнир, все результаты будут безвозвратно удалены, и вы сможете начать новый турнир!</string>
+    <string name="pleaseAdd">\Пожалуйста, добавьте \</string>
+    <string name="playersTournStart">\ игроков для участия в турнире, чтобы начать турнир.\</string>
+    <string name="playerTournStart">\ 1 дополнительный игрок для участия в турнире.\</string>
+    <string name="ok">\хорошо\</string>
+    <string name="action_newTournament">Начать новый турнир</string>
+    <string name="new_tournament">новый турнир</string>
+    <string name="notAllResults1">\Результаты для \</string>
+    <string name="notAllResults2">\ не закончены. Пожалуйста, введите все результаты для продолжения.\</string>
+    <string name="participate">"поучаствовать "</string>
+    <string name="pause">пауза</string>
+    <string name="action_back">предыдущий раунд</string>
+    <string name="roundspace">\Раунд \</string>
+    <string name="signedOut">Выход успешно</string>
+    <string name="new_player">Новый игрок</string>
+    <string name="playername">Имя</string>
+    <string name="add_new_player">Добавить новый плеер</string>
+    <string name="fail">неудавшийся</string>
+    <string name="enterNameError">Вы должны ввести имя, чтобы зарегистрироваться.</string>
+    <string name="alterDialogYes">Да</string>
+    <string name="altertDialogNo">Нет</string>
+    <string name="enterResult">Введите результат</string>
+    <string name="white_wins">Белые побеждают</string>
+    <string name="black_wins">Чёрные побеждают</string>
+    <string name="remis">розыгрыш</string>
+    <string name="deletePlayer">Удалить игроков?</string>
+    <string name="playerParticipateMenu">Должен ли игрок участвовать?</string>
+    <string name="newTournament">Когда вы начинаете новый турнир, все предыдущие результаты удаляются. Хочешь начать новый турнир?</string>
+    <string name="name">название</string>
+    <string name="chess_icon">шахматная икона</string>
+</resources>

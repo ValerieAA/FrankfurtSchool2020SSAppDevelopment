@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.TournamentActivity">
+    <item
+        android:id="@+id/item_back"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_back"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_leaderboard"
+        android:icon="@drawable/ic_leaderboard_icon"
+        android:orderInCategory="100"
+        android:title="@string/action_showleaderboard"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_new_tournament"
+        android:orderInCategory="100"
+        android:title="@string/action_newTournament"
+        app:showAsAction="never" />
+
+</menu>

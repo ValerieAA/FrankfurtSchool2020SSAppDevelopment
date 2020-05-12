@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="pause">pausieren</string>
+    <string name="action_back">vorherige Runde</string>
+    <string name="round">Runde 1</string>
+    <string name="item_logout_string">Logout</string>
+    <string name="nocurrenttournament">Derzeit ist kein Turnier erstellt. Drücken Sie die Taste , um ein neues Turnier zu starten.</string>
+    <string name="action_showleaderboard">Rangliste zeigen</string>
+    <string name="participant_selection">Teilnehmerauswahl</string>
+    <string name="leaderboard">Rangliste</string>
+    <string name="round1back">Sind Sie sicher? Wenn Sie die erste Runde abbrechen, werden alle Ergebnisse unwiederbringlich gelöscht!</string>
+    <string name="quitTournament">Sie haben das aktuelle Turnier abgeschlossen. Möchten Sie das Turnier beenden? Wenn Sie das Turnier beenden, werden alle Ergebnisse unwiderruflich gelöscht und Sie können ein neues Turnier beginnen!</string>
+    <string name="pleaseAdd">\Bitte fügen Sie \</string>
+    <string name="playersTournStart">\ weitere Spieler hinzu, die teilnehmen sollen, um das Turnier zu starten.\</string>
+    <string name="playerTournStart">\ 1 weiteren Spieler hinzu, der beim Turniers teilnehmen soll.\</string>
+    <string name="ok">\Ok\</string>
+    <string name="action_newTournament">Neues Turnier starten</string>
+    <string name="new_tournament">Neues Turnier</string>
+    <string name="notAllResults1">\Die Ergebnisse für \</string>
+    <string name="notAllResults2">\ sind nicht vollständig. Bitte geben Sie alle Ergebnisse ein, um fortzufahren.\</string>
+    <string name="participate">teilnehmen</string>
+    <string name="roundspace">\Runde \</string>
+    <string name="hello">Willkommen bei der Chess Round Robin App. Mit dieser App können Sie Schachturniere in einem Rundenturniersystem veranstalten!</string>
+    <string name="homescreenbuttonnewtournament">NEUES TURNIER</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="signedOut">Erfolgreich ausgeloggt</string>
+    <string name="new_player">Neuer Spieler</string>
+    <string name="playername">Spielername</string>
+    <string name="add_new_player">Neuen Spieler hinzufügen</string>
+    <string name="fail">fehlgeschlagen</string>
+    <string name="enterNameError">Sie müssen einen Namen eingeben, um sich zu registrieren.</string>
+    <string name="alterDialogYes">Ja</string>
+    <string name="altertDialogNo">Nein</string>
+    <string name="white_wins">Weiß gewinnt</string>
+    <string name="black_wins">Schwarz gewinnt</string>
+    <string name="remis">Unentschieden</string>
+    <string name="enterResult">Ergebnis eingeben:</string>
+    <string name="deletePlayer">Spieler löschen?</string>
+    <string name="playerParticipateMenu">Soll der Spieler teilnehmen?</string>
+    <string name="newTournament">Wenn Sie ein neues Turnier beginnen, werden alle vorherigen Ergebnisse gelöscht. Möchten Sie ein neues Turnier beginnen?</string>
+    <string name="name">Name</string>
+    <string name="chess_icon">Schach Icon</string>
+</resources>

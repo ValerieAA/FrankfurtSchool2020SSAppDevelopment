@@ -1,0 +1,43 @@
+#
+# generated on 2020/04/15 09:24:09
+#
+# --table-start--
+dataClass=com.example.myapplication.Player
+tableName=t_player
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=playername
+# --field-end--
+# --field-start--
+fieldName=participation
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=com.example.myapplication.Result
+tableName=t_result
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=roundnumber
+# --field-end--
+# --field-start--
+fieldName=playerID_white
+# --field-end--
+# --field-start--
+fieldName=playerID_black
+# --field-end--
+# --field-start--
+fieldName=result
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

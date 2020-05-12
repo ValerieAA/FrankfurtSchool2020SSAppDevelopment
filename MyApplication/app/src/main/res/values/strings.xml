@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">Chess Round Robin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Welcome to the Chess Round Robin App. With this app you can host chess tournaments in a round robin system!</string>
+    <string name="homescreentitle" translatable="false">Chess Round Robin</string>
+    <string name="homescreenbuttonnewtournament">NEW TOURNAMENT</string>
+    <string name="nocurrenttournament">Currently no tournament is created. Press the button to start a new tournament.</string>
+    <string name="item_logout_string">Logout</string>
+    <string name="round">Round 1</string>
+    <string name="action_showleaderboard">Show Leaderboard</string>
+    <string name="participant_selection">Selection of Participants</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="round1back">Are you sure? If you quit the first round, all results are irretrievably deleted!</string>
+    <string name="quitTournament">You have completed the current tournament. Would you like to quit the tournament? If you quit, all results are irretrievably deleted and you can start a new tournament!</string>
+    <string name="pleaseAdd">\Please add \</string>
+    <string name="playersTournStart">\ more players, which should participate to start the tournament.\</string>
+    <string name="playerTournStart">\ 1 more player which should participate to start the tournament.\</string>
+    <string name="ok">\Ok\</string>
+    <string name="action_newTournament">Start New Tournament</string>
+    <string name="new_tournament">New Tournament</string>
+    <string name="notAllResults1">\The results for \</string>
+    <string name="notAllResults2">\ are not complete. Please enter all results to continue.\</string>
+    <string name="participate">participate</string>
+    <string name="pause">pause</string>
+    <string name="action_back">Previous Round</string>
+    <string name="roundspace">\Round \</string>
+    <string name="whiteWin" translatable="false">1-0</string>
+    <string name="BlackWin" translatable="false">0-1</string>
+    <string name="draw" translatable="false">1/2</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="signedOut">Successfully signed out</string>
+    <string name="new_player">New Player</string>
+    <string name="playername">Playername</string>
+    <string name="add_new_player">Add new Player</string>
+    <string name="fail">Failed</string>
+    <string name="enterNameError">You must enter your name to register!</string>
+    <string name="alterDialogYes">Yes</string>
+    <string name="altertDialogNo">No</string>
+    <string name="enterResult">Please enter the result:</string>
+    <string name="white_wins">White wins</string>
+    <string name="black_wins">Black wins</string>
+    <string name="remis">Remis</string>
+    <string name="deletePlayer">Delete the Player?</string>
+    <string name="playerParticipateMenu">Should the player participate?</string>
+    <string name="newTournament">If you start a new tournament all previous results are deleted. Would you like to start a new tournament?</string>
+    <string name="name">Name</string>
+    <string name="chess_icon">Chess Icon</string>
+    <string name="points" translatable="false">\ P\</string>
+    <string name="sobe" translatable="false">\ SoBe\</string>
+</resources>
