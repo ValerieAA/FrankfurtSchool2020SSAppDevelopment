@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800087186415",
+    "firebase_url": "https://pillhelper-c74bc.firebaseio.com",
+    "project_id": "pillhelper-c74bc",
+    "storage_bucket": "pillhelper-c74bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800087186415:android:246abfc0c81d9a8263b41a",
+        "android_client_info": {
+          "package_name": "com.example.pillhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800087186415-a78a9vrho5dhlips951mka10n44mrhg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7jozVY_oHGaHVPtCesup0eaq7S1JeQu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800087186415-a78a9vrho5dhlips951mka10n44mrhg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

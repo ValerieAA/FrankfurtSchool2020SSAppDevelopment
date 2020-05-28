@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:tilte="About"
+            android:title="@string/todo" />
+
+        <item android:id="@+id/nav_bodymeasures"
+            android:icon="@drawable/ic_bodymeasures"
+            android:tilte="Bodymeasures"
+            android:title="@string/todo" />
+
+        <item android:id="@+id/nav_medicationdose"
+            android:icon="@drawable/ic_medicationdose"
+            android:tilte="Medicationdose"
+            android:title="@string/todo" />
+
+        <item android:id="@+id/nav_pillidentifier"
+            android:icon="@drawable/ic_pillidentifier"
+            android:tilte="Pillidentifier"
+            android:title="@string/todo" />
+
+        <item android:id="@+id/nav_weighttracking"
+            android:icon="@drawable/ic_weighttracking"
+            android:tilte="Weighttracking"
+            android:title="@string/todo" />
+
+    </group>
+
+    <item android:title="@string/communicate">
+<menu>
+    <item android:id="@+id/nav_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share"/>
+    <item android:id="@+id/nav_send"
+        android:icon="@drawable/ic_send"
+        android:title="@string/send"/>
+
+</menu>
+
+    </item>
+</menu>
