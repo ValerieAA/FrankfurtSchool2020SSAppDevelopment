@@ -1,0 +1,1178 @@
+[
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_up_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_up_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_publish_white_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_publish_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_publish_white_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_publish_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_replay_black_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_replay_black_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_replay_blue_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_replay_blue_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_alarm.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_action_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_down_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_down_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_down_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_down_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cd.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\cd.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_up_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_up_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_mode_edit.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mode_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_replay_grey_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_replay_grey_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profile_black.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_profile_black.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_black_48dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chrono.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\chrono.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_alarm.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_up_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_up_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_skip_next_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_skip_next_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_replay_grey_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_replay_grey_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_med.jpg.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\med.jpg"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_down_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_down_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_black_48dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_replay_black_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_replay_black_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_medication.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_medication.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_star_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_publish_white_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_publish_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_simplemedication_row.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\simplemedication_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_spinner_item.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\custom_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_repeat_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_repeat_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_idea_hi_res_485.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\idea_hi_res_485.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_down_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_down_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shuffle_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_shuffle_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_up_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_up_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_library_music_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_library_music_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_up_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_up_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_menu_params.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\icon_menu_params.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_up_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_up_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_repeat_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_repeat_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_av_replay.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_av_replay.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_publish_white_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_publish_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info_outline.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_info_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_params.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_params.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_fontes.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_fontes.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_down_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_down_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_library_music_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_library_music_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medication_pager.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medication_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_mode_edit.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_mode_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_down_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_down_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_group_hi_res_512.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\group_hi_res_512.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stop_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_marker2.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\marker2.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plus.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star_border_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter_vintage_white_24dp.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_filter_vintage_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info_outline.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edit.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_rest.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\dialog_rest.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_scale.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play_arrow_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mode_edit.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_mode_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_params.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_params.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star_border_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_replay_grey_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_replay_grey_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_star_border_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shuffle_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_shuffle_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shuffle_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_shuffle_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_arrow_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_skip_previous_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_skip_previous_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_up_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_up_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_medicationtracking.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_medicationtracking.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_chrono.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\dialog_chrono.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_publish_white_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_publish_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profilebw.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\profilebw.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_about.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_down_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_down_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_publish_white_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_publish_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_web_hi_res_512.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\web_hi_res_512.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_down.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_web_hi_res_512.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\web_hi_res_512.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings_black_48dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_skip_previous_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_skip_previous_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_history.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_fonte.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\row_fonte.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_replay_blue_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_replay_blue_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profile_black.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_profile_black.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_skip_previous_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_skip_previous_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_library_music_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_library_music_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_publish_white_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_publish_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_publish_white_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_publish_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_show_chart_24px.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_baseline_show_chart_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_menu_params.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\icon_menu_params.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_up_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_up_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save_black_24dp.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_save_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profile_black.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_profile_black.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_skip_next_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_skip_next_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_drawer_item.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\custom_drawer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medicationmeasure_rowheader.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medicationmeasure_rowheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_up_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_up_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_repeat_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_repeat_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_up_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_up_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profile_black.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_profile_black.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corner_button.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\round_corner_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_play_arrow_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_library_music_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_library_music_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_av_replay.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_av_replay.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\menu_medication_details_menu.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\menu\\medication_details_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_list.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_introfragment_newprofile.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\introfragment_newprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_editableinput_view.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\editableinput_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medicationmeasure_row.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medicationmeasure_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_star_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_publish_white_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_publish_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter_vintage_black_24dp.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_filter_vintage_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings2.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\xml\\settings2.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play_arrow_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_skip_previous_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_skip_previous_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_publish_white_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_publish_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_alarm.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skip_previous_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_skip_previous_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_mode_edit.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mode_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_list_alt_24px.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_baseline_list_alt_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_repeat_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_repeat_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_profile_white.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_profile_white.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_scale.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stop_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_mode_edit.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_mode_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_down_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_down_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_star_border_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_up_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_up_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_star_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profilebw.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\profilebw.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chrono.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_chrono.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_keyboard_arrow_down_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_keyboard_arrow_down_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profilebw_small.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\profilebw_small.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_down_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_down_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_publish_white_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_publish_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info_outline.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_action_info_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_library_music_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_library_music_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info_outline.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_info_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_av_replay.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_av_replay.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shuffle_grey_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_shuffle_grey_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_replay_black_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_replay_black_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pause_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chrono.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_chrono.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_publish_white_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_publish_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stop_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_replay_blue_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_replay_blue_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_activity_actions.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_alarm.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_action_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_params.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_params.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_publish_white_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_publish_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_publish_white_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_publish_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_replay_grey_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_replay_grey_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\menu_profile_actions.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\menu\\profile_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_stop_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_list.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\drawer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_replay_grey_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_replay_grey_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_dose_history.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_dose_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medication.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medication.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_down_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_down_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_down_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_down_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_star_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_star_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_black_48dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_down_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_down_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_keyboard_arrow_up_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_keyboard_arrow_up_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_numberpicker.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\dialog_numberpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_skip_next_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_skip_next_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_help_outline_24px.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_baseline_help_outline_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_black_48dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chrono.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_chrono.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_measuring_tape.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_measuring_tape.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_replay_blue_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_replay_blue_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_publish_white_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_publish_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_longterm.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_longterm.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_star_border_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_star_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_dose.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_dose.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profile_black.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_profile_black.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_replay_black_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_replay_black_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_alarm.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shuffle_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shuffle_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_up_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_up_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stop_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_publish_white_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\baseline_publish_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_profile_white.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_profile_white.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_profilmedication.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\row_profilmedication.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fade_blue.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\fade_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_scale.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medicationlist_row.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medicationlist_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shuffle_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_shuffle_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_down_black_24.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_down_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_av_replay.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_av_replay.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_publish_white_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_publish_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_measuring_tape.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_measuring_tape.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_down_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_down_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pause_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_skip_next_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_skip_next_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_scale.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pause_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_down_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_down_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_graph_markerview.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\graph_markerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_accessibility_black_24dp.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_accessibility_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_params.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_params.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medicationtracking_details_fragment.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medicationtracking_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medication_details.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medication_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_tab_dose.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout-v26\\tab_dose.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shuffle_grey_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_shuffle_grey_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_keyboard_arrow_up_black_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\baseline_keyboard_arrow_up_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_replay_black_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_replay_black_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_arrow_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_scale.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_scale.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_profile_white.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_profile_white.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_measuring_tape.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_measuring_tape.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_publish_white_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\baseline_publish_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back2.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_keyboard_arrow_up_black_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_keyboard_arrow_up_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_replay_blue_36dp.9.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_replay_blue_36dp.9.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_measuring_tape.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_measuring_tape.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_chrono.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\ic_chrono.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_graph.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\tab_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_forward.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_repeat_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_repeat_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_measuring_tape.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_measuring_tape.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save_black_24dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_save_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_medication_measure.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\medication_measure.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pause_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_profile_white.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\ic_profile_white.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite_border_black_24dp.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\ic_favorite_border_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\layout_pager.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\layout\\pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_profile_white.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-hdpi\\ic_profile_white.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_info_outline.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_info_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_skip_next_black_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_skip_next_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_publish_white_48.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_publish_white_48.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back2.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_params.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_params.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_keyboard_arrow_up_black_36.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_keyboard_arrow_up_black_36.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_button.xml.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable\\radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_publish_white_18.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_publish_white_18.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shuffle_grey_36dp.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xhdpi\\ic_shuffle_grey_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chrono.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_chrono.png"
+    },
+    {
+        "merged": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrow_up.png.flat",
+        "source": "C:\\Users\\valer\\OneDrive\\Desktop\\pillhelper\\pillhelper\\app\\src\\main\\res\\drawable-mdpi\\arrow_up.png"
+    }
+]
