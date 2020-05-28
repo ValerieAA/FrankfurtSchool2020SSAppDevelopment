@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <item name="LIST_MEDICATION_DATE" type="id" />
+    <item name="LIST_MEDICATION_GRAMS" type="id" />
+    <item name="buttonAddMedication" type="id" />
+    <item name="listMedicationProfil" type="id" />
+    <item name="buttonLaunchChrono" type="id" />
+    </resources>
